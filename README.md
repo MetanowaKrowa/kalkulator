@@ -1,0 +1,2 @@
+# kalkulator
+Prototyp kalkulatora
